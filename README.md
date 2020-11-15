@@ -1,2 +1,2 @@
 # Primera aplicación web
-Esto fue realizadoen un curso en linea
+Esto fue realizado en un curso en linea
